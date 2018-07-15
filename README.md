@@ -7,3 +7,5 @@ Major steps taken in this project were:
 * Design a normalized database schema
 * Create tables for the schema
 * Insert data into the schema
+
+Please note that game_log.csv was compressed as it was too large to upload to GitHub.
